@@ -32,7 +32,7 @@
   <a href="mailto:andreyushakov09@yandex.ru">
     <img src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=E-mail&logoColor=white" alt="E-mail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://web.facebook.com/andrey.ushakov.50596">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
