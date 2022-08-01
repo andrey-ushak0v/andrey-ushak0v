@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
 </div>
 ### about me:
-my name is Andrey
-i'am python developer
-open to your suggestions
+`my name is Andrey`
+`i'am python developer`
+`open to your suggestions`
 
 
 <div id="badges">
