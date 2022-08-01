@@ -37,4 +37,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=andrey-ushak0v&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=andrey-ushak0v&style=flat-square&color=green" alt=""/>
