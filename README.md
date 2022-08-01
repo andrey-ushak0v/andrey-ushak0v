@@ -13,7 +13,7 @@
 # :hammer_and_wrench: Languages and tecnologies
 
 <div>
-  <img src="https://github.com/devicons/devicon/commit/e9b8e2e9f9e0856083f92afb6bec8ec3f902bf62#diff-2745152e11dbc24d891fb53ca1df54369936fc79a3887b9317b93566d73bb7dc" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
 
 
