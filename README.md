@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="400"/>
 </div>
 
 ### :man_technologist: About Me :
 
-:wave: Hi! my name is Andrey
+## :wave: Hi! my name is Andrey
 - i'am python developer
 - open to your suggestions
+- ready to take your test task
 
 
 <div id="badges">
