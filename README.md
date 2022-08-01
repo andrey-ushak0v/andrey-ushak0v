@@ -6,7 +6,7 @@
 - ready to take your test task
 - always in touch: andreyushakov09@yandex.ru
 
-# :hammer_and_wrench: Languages and tecnologies
+## :hammer_and_wrench: Languages and tecnologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="380"/>
 </div>
 
 
