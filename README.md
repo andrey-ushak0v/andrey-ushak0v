@@ -5,7 +5,6 @@
 - ready to take your test task
 - always in touch: andreyushakov09@yandex.ru
 
-## :hammer_and_wrench: Languages and tecnologies
 
 
 <div id="header" align="center">
